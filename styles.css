@@ -9,10 +9,26 @@
 body{
     font-family: 'Manrope', sans-serif;
     font-size: 13px ;
+    font-weight: 500,700;
 }
 
 html{
     background-color: hsl(210, 46%, 95%) ;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: hsl(217, 19%, 35%);
+}
+
+h1{
+    font-size: 16px;
+    padding: 40px 20px 10px;
+}
+
+h3{
+    font-size: 13px;
+    color: hsl(214, 17%, 51%);
+    padding: 0 20px 20px 20px;
 }
 
 .card{
