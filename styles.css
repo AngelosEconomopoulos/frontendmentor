@@ -29,9 +29,11 @@ h3{
     font-size: 13px;
     color: hsl(214, 17%, 51%);
     padding: 0 25px 20px 25px;
+    opacity: 0.6;
 }
 .person > .tag > h4:nth-child(2){
     color: hsl(214, 17%, 51%);
+    opacity: 0.6;
 }
 
 .card{
@@ -78,3 +80,15 @@ h3{
 .tag{
     padding-left: 14px;
 }
+
+.btm-side > .icon > img{
+    padding: 10px 10px;
+    background-color: hsl(210, 46%, 95%);
+    border-radius: 50%;
+}
+
+.btm-side > .icon{
+    padding-right: 20px;
+    width: 100%;
+}
+
